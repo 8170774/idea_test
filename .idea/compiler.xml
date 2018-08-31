@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crmdao" />
+        <module name="crmdomain" />
+        <module name="crmservice" />
+        <module name="crmweb1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ccccccc" target="1.7" />
+      <module name="crm-parent" target="1.8" />
+      <module name="crm-web" target="1.8" />
+      <module name="crmdao" target="1.8" />
+      <module name="crmdomain" target="1.8" />
+      <module name="crmservice" target="1.8" />
+      <module name="crmweb1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

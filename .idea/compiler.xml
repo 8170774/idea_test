@@ -14,7 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ccccccc" target="1.7" />
-      <module name="crm-parent" target="1.8" />
+      <module name="crm-parent" target="1.5" />
       <module name="crm-web" target="1.8" />
       <module name="crmdao" target="1.8" />
       <module name="crmdomain" target="1.8" />

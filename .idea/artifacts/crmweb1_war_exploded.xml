@@ -16,6 +16,7 @@
           <element id="archive" name="crm-domain-1.0-SNAPSHOT.jar">
             <element id="module-output" name="crmdomain" />
           </element>
+          <element id="library" level="project" name="Maven: org.projectlombok:lombok:1.16.22" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.42" />
           <element id="library" level="project" name="Maven: com.alibaba:druid:1.1.7" />
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.3.3.RELEASE" />
@@ -36,6 +37,7 @@
           <element id="library" level="project" name="Maven: junit:junit:4.12" />
           <element id="library" level="project" name="Maven: org.hamcrest:hamcrest-core:1.3" />
           <element id="library" level="project" name="Maven: org.springframework:spring-test:4.3.3.RELEASE" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
         </element>
       </element>
       <element id="directory" name="META-INF">
